@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_moip_title</key>
+      <value><![CDATA[MoIP Payments]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_moip_method_title</key>
+      <value><![CDATA[Payment Authorization<br>using the services <br><a href=http://www.moip.com.br target=_blank><b>MoIP</b></a>.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_moip_description</key>
+      <value><![CDATA[MoIP payment integration.]]></value>
+      <group>modules-payment</group>
+    </definition>
+  </definitions>
+</language>
