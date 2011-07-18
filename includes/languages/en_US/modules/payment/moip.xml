@@ -8,7 +8,7 @@
     </definition>
     <definition>
       <key>payment_moip_method_title</key>
-      <value><![CDATA[Payment Authorization<br>using the services <br><a href=http://www.moip.com.br target=_blank><b>MoIP</b></a>.]]></value>
+      <value><![CDATA[Payment Authorization using the services <a href=http://www.moip.com.br target=_blank><b>MoIP</b></a>.]]></value>
       <group>modules-payment</group>
     </definition>
     <definition>
